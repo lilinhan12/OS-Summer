@@ -1,9 +1,9 @@
 # OS-Summer
 
-# 第一天
+# Day 1
 学习emacs用法，看了emacs tutorial的50%，总结了部分常用快捷指令
 
-# 第二天
+# Day 2
 # 事件1
   开始啃Rust by example这本书!  
   第一章 hello world  
