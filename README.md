@@ -27,7 +27,9 @@
 ### 事件1
   做人工智能ppt
 ### 事件2
-  学习了Rust by example第二章  
+  学习了Rust by example第二章 原生类型
   * 对元组进行简单操作，自己写了Display
   * 对切片和数组进行简单操作
-  
+  学习了Rust by example第三章 自定义类型
+  * 对结构体的操作
+  * 对枚举类型的操作
